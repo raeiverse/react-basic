@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.text {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 12;
+  color: skyblue;
+}
